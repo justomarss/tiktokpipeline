@@ -1,0 +1,352 @@
+[
+  {
+    "id": "dark_triad",
+    "title": "Qaranlıq Üçlük: Narcisizm, Psixopatiya, Makiavellizm",
+    "description": "İnsanların 1%-i bu üç qaranlıq xüsusiyyəti daşıyır. Onları necə tanıyarsan?",
+    "keywords": ["dark", "shadow", "abstract"],
+    "category": "dark_psychology"
+  },
+  {
+    "id": "cognitive_dissonance",
+    "title": "Kognitiv Disonans: Beyin Özünü Necə Aldadır",
+    "description": "İnandığın şeyə zidd hərəkət etdikdə beynin içindən nə keçir.",
+    "keywords": ["mind", "brain", "thought"],
+    "category": "psychology"
+  },
+  {
+    "id": "dunning_kruger",
+    "title": "Dunning-Kruger Effekti: Cahilin Özünə Güvəni",
+    "description": "Az bilən niyə çox biləndən daha əmindir? Bu paradoksun elmi izahı.",
+    "keywords": ["knowledge", "thinking", "education"],
+    "category": "psychology"
+  },
+  {
+    "id": "nietzsche_will_power",
+    "title": "Nietzsche: Güc İradəsi Nədir?",
+    "description": "Güc pul deyil, status deyil. Nietzsche-nin bunu nə demək istədiyini heç kim düzgün anlamır.",
+    "keywords": ["philosophy", "power", "dark"],
+    "category": "philosophy"
+  },
+  {
+    "id": "shadow_self",
+    "title": "Jung: Kölgə Özün — Gizlədiklərin Səni İdarə Edir",
+    "description": "Carl Jung-a görə hər insanın içində gizlətdiyi bir 'kölgə öz' var. Onu tanımayan ona kölədir.",
+    "keywords": ["shadow", "dark", "psychology"],
+    "category": "psychology"
+  },
+  {
+    "id": "stoicism_control",
+    "title": "Stoikizm: Nəzarətin Olduğu Şeyə Diqqət Et",
+    "description": "Epiktet bir kölə idi. Amma içindən heç kim onu zəncirə vura bilmədi. Niyə?",
+    "keywords": ["stoic", "calm", "philosophy"],
+    "category": "philosophy"
+  },
+  {
+    "id": "attachment_theory",
+    "title": "Bağlanma Nəzəriyyəsi: Uşaqlığın Münasibətlərinə Təsiri",
+    "description": "Sevgilidən niyə bu qədər qorxursan? Cavab 3 yaşındakı sənin içindədir.",
+    "keywords": ["love", "relationship", "childhood"],
+    "category": "psychology"
+  },
+  {
+    "id": "projection",
+    "title": "Proyeksiya: Başqalarında Gördüyün Şey Sən Özünsən",
+    "description": "Kimisə intensiv şəkildə sinir edirsə — bu sənin haqqında bir şey deyir.",
+    "keywords": ["mirror", "reflection", "psychology"],
+    "category": "psychology"
+  },
+  {
+    "id": "existentialism_sartre",
+    "title": "Sartr: Məhkumsunuz Azad Olmağa",
+    "description": "Seçim etməmək özü bir seçimdir. Sartr bunu 'pis inam' adlandırırdı.",
+    "keywords": ["freedom", "existential", "philosophy"],
+    "category": "philosophy"
+  },
+  {
+    "id": "confirmation_bias",
+    "title": "Konfirmasiya Qərəzi: Yalnız İstədiyini Görürsən",
+    "description": "Beynin hər gün sənə yalan deyir — sadəcə sən bunu yoxlamırsan.",
+    "keywords": ["bias", "thinking", "mind"],
+    "category": "psychology"
+  },
+  {
+    "id": "machiavelli_power",
+    "title": "Makiavelli: Güc Əxlaqı Tanımır",
+    "description": "500 il əvvəl yazılmış bir kitab bugünkü siyasəti, biznesinizi, münasibətləri izah edir.",
+    "keywords": ["power", "politics", "dark"],
+    "category": "philosophy"
+  },
+  {
+    "id": "gaslighting",
+    "title": "Qazlight: Kiminsə Sənin Gerçəkliyini Əritmə Taktikası",
+    "description": "Sən həmişə həssasvesen, həmişə yanlış başa düşürsən. Ya həqiqətən beləsinmi?",
+    "keywords": ["manipulation", "dark", "psychology"],
+    "category": "dark_psychology"
+  },
+  {
+    "id": "absurdism_camus",
+    "title": "Kamu: Həyatın Mənasızlığını Qəbul Et",
+    "description": "Sisif qayasını daim yuxarı yuvarlayır. Kamu deyir ki, bunu gülümsəyərək etməlidir.",
+    "keywords": ["rock", "mountain", "philosophy"],
+    "category": "philosophy"
+  },
+  {
+    "id": "imposter_syndrome",
+    "title": "Saxtakar Sindromu: Özünü Kifayət Qədər Hiss Etməmək",
+    "description": "Ən uğurlu insanlar belə gizlicə özlərini saxtakar hesab edirlər. Bu niyə olur?",
+    "keywords": ["mask", "success", "anxiety"],
+    "category": "psychology"
+  },
+  {
+    "id": "social_proof",
+    "title": "Sosial Sübut: Sürü Sənin Beynini İdarə Edir",
+    "description": "Herkesin etdiyi şeyi yaxşı hesab edirsən. Bu evolyusiyanın sənə qurduğu bir tələdir.",
+    "keywords": ["crowd", "social", "psychology"],
+    "category": "psychology"
+  },
+  {
+    "id": "nietzsche_god_dead",
+    "title": "Nietzsche: Tanrı Öldü — Indi Nə?",
+    "description": "Bu cümləni anlamayan onu ya sevinclə, ya qəzəblə qəbul edir. Ikisi də yanlışdır.",
+    "keywords": ["dark", "philosophy", "existential"],
+    "category": "philosophy"
+  },
+  {
+    "id": "learned_helplessness",
+    "title": "Öyrənilmiş Acizlik: Niyə Cəhd Etməyi Dayandırırıq",
+    "description": "Köpəklər, insanlar, sistemlər. Seligman-ın ən dəhşətli eksperimenti.",
+    "keywords": ["cage", "trapped", "psychology"],
+    "category": "psychology"
+  },
+  {
+    "id": "ego_death",
+    "title": "Eqonun Ölümü: Özündən Qurtarmaq Mümkündürmü?",
+    "description": "Budda, Eckhart Tolle, müasir neyrologiya — hamısı eyni nöqtəyə işarə edir.",
+    "keywords": ["meditation", "mind", "spiritual"],
+    "category": "philosophy"
+  },
+  {
+    "id": "love_bombing",
+    "title": "Sevgi Bombardımanı: Narcisizmin Ən Effektiv Silahı",
+    "description": "Heç əlaqənin əvvəlində bu qədər mükəmməl hiss etmisən? Bu pis işarədir.",
+    "keywords": ["manipulation", "relationship", "dark"],
+    "category": "dark_psychology"
+  },
+  {
+    "id": "sunk_cost",
+    "title": "Batmış Xərc Yanılması: Niyə Pis Şeylərdə Qalırıq",
+    "description": "5 il keçirdin, ona görə davam edirsən. Bu məntiq sənin ən böyük düşmənin.",
+    "keywords": ["time", "loss", "decision"],
+    "category": "psychology"
+  },
+  {
+    "id": "persona_jung",
+    "title": "Jung: Persona — Oynadığın Rol Sən Deyilsən",
+    "description": "Sosial maska ilə gerçək özün arasındakı məsafə artdıqca, içindən ölürsən.",
+    "keywords": ["mask", "identity", "shadow"],
+    "category": "psychology"
+  },
+  {
+    "id": "stoic_memento_mori",
+    "title": "Memento Mori: Ölümlü Olduğunu Unutma",
+    "description": "Roma imperatorları döyüşdən qayıdanda kölə arxalarında fısıldayırdı: sən ölümlüsən.",
+    "keywords": ["dark", "death", "philosophy"],
+    "category": "philosophy"
+  },
+  {
+    "id": "mirror_neurons",
+    "title": "Güzgü Neyronlar: Niyə Başqasının Ağrısını Hiss Edirsən",
+    "description": "Empatiya bir seçim deyil — beynindəki güzgü neyronlar sənin iradəsiz işləyir.",
+    "keywords": ["brain", "neuroscience", "empathy"],
+    "category": "psychology"
+  },
+  {
+    "id": "hedonic_adaptation",
+    "title": "Hedonik Adaptasiya: Niyə Heç Nə Kifayət Etmir",
+    "description": "Yeni telefon, yeni münasibət, yeni iş. 3 aydan sonra yenidən boşluq hissi.",
+    "keywords": ["desire", "empty", "psychology"],
+    "category": "psychology"
+  },
+  {
+    "id": "stoic_amor_fati",
+    "title": "Amor Fati: Taleyini Sev",
+    "description": "Nietzsche-nin ən güclü ideyası. Pis olan hər şeyi istemek — bu zəiflik deyil.",
+    "keywords": ["fire", "strength", "philosophy"],
+    "category": "philosophy"
+  },
+  {
+    "id": "bystander_effect",
+    "title": "Tamaşaçı Effekti: Camaat Çoxdursa Kimse Kömək Etmir",
+    "description": "Kitty Genovese 38 nəfərin gözü önündə öldürüldü. Heç kim çağırmadı. Niyə?",
+    "keywords": ["crowd", "urban", "psychology"],
+    "category": "psychology"
+  },
+  {
+    "id": "emotional_intelligence",
+    "title": "Emosional İntellekt IQ-dan Daha Vacibdir — Yalan!",
+    "description": "EQ hype-ı haqqında elm nə deyir? Cavab sürpriz edici.",
+    "keywords": ["brain", "emotion", "psychology"],
+    "category": "psychology"
+  },
+  {
+    "id": "schopenhauer_will",
+    "title": "Şopenhauer: Həyat Əzabdır — Bununla Nə Etməli?",
+    "description": "Şopenhauer ən pessimist filosof idi. Amma onun həlli gözlənilməz dərəcədə praktikdir.",
+    "keywords": ["dark", "pessimism", "philosophy"],
+    "category": "philosophy"
+  },
+  {
+    "id": "narcissism_spectrum",
+    "title": "Narcisizm Spektri: Hamımız Bir Az Narcisik",
+    "description": "Sağlıqlı narcisizm var, patoloji narcisizm var. Sən haradasınsan?",
+    "keywords": ["mirror", "vanity", "psychology"],
+    "category": "psychology"
+  },
+  {
+    "id": "plato_cave",
+    "title": "Platon-un Mağarası: Gördüyün Gerçəklik Deyil",
+    "description": "2400 il əvvəl yazılan bu alleqoriya sosial media çağında daha dəqiq oldu.",
+    "keywords": ["cave", "shadow", "philosophy"],
+    "category": "philosophy"
+  },
+  {
+    "id": "intrinsic_motivation",
+    "title": "Daxili Motivasiya: Mükafat Sənin Həvəsini Öldürür",
+    "description": "Pul verdikdə insanlar işi daha az sevirlər. Psixologiyanın ən kontr-intuitiv kəşfi.",
+    "keywords": ["motivation", "work", "psychology"],
+    "category": "psychology"
+  },
+  {
+    "id": "nietzsche_eternal_return",
+    "title": "Əbədi Qayıdış: Eyni Həyatı Sonsuz Yaşamağa Razısanmı?",
+    "description": "Nietzsche-nin ən ağır suali. Cavabın sənin necə yaşadığını tamamilə dəyişir.",
+    "keywords": ["infinity", "time", "philosophy"],
+    "category": "philosophy"
+  },
+  {
+    "id": "manipulation_tactics",
+    "title": "7 Manipulyasiya Taktikası: Onları Tanıyanlar Onlara Düşmür",
+    "description": "Qəzəb oyunu, qurban rolu, susmaq. Bunları bilmək bir zireh kimidir.",
+    "keywords": ["chess", "strategy", "dark"],
+    "category": "dark_psychology"
+  },
+  {
+    "id": "flow_state",
+    "title": "Flow Vəziyyəti: Vaxtın Durduğu An",
+    "description": "Csikszentmihalyi-nin kəşfi. Bəzən saatlar dəqiqə kimi keçir. Bu nədir?",
+    "keywords": ["flow", "focus", "psychology"],
+    "category": "psychology"
+  },
+  {
+    "id": "wittgenstein_language",
+    "title": "Vitqenştayn: Dilinin Həddləri Dünyânın Həddləridiir",
+    "description": "Adı olmayan şeyi düşünə bilmirsən. Bu sənin azadlığını məhdudlaşdırır.",
+    "keywords": ["words", "language", "philosophy"],
+    "category": "philosophy"
+  },
+  {
+    "id": "self_sabotage",
+    "title": "Özünə Sabotaj: Niyə Uğurundan Qorxursan?",
+    "description": "Çox insan müvəffəqiyyətin qapısında özü geri çəkilir. Buna psixologiya nə deyir.",
+    "keywords": ["fear", "dark", "psychology"],
+    "category": "psychology"
+  },
+  {
+    "id": "camus_revolt",
+    "title": "Kamu: Mənasızlığa Qarşı Üsyan",
+    "description": "Həyatın mənası yoxdursa — intihar yeganə ciddi fəlsəfi sualdır. Kamusun cavabı nə idi?",
+    "keywords": ["revolt", "freedom", "philosophy"],
+    "category": "philosophy"
+  },
+  {
+    "id": "defense_mechanisms",
+    "title": "Müdafiə Mexanizmləri: Beyin Sənə Necə Yalan Deyir",
+    "description": "İnkar, rasionalizasiya, proyeksiya. Freydın kəşfi bu gün də tam keçərlidir.",
+    "keywords": ["mind", "psychology", "dark"],
+    "category": "psychology"
+  },
+  {
+    "id": "herd_mentality",
+    "title": "Sürü Düşüncəsi: Sən Nə Qədər Müstəqil Düşünürsən?",
+    "description": "Asch-ın eksperimenti: Açıq-aydın səhv cavabı hamı verir — sənin gözündə yox, ancaq sözündə.",
+    "keywords": ["crowd", "conformity", "psychology"],
+    "category": "psychology"
+  },
+  {
+    "id": "aristotle_eudaimonia",
+    "title": "Aristotel: Xoşbəxtlik Bir Hiss Deyil, Bir Fəaliyyətdir",
+    "description": "Xoşbəxtliyi axtaran tapmir. Çünki o şey deyil — prosesdir.",
+    "keywords": ["happiness", "philosophy", "light"],
+    "category": "philosophy"
+  },
+  {
+    "id": "trauma_bonding",
+    "title": "Travma Bağı: Niyə Pis Münasibətdən Ayrılmaq Çətin Olur",
+    "description": "Seni incidən insana daha çox bağlanmağın neyrologiyası.",
+    "keywords": ["chains", "dark", "psychology"],
+    "category": "dark_psychology"
+  },
+  {
+    "id": "solipsism",
+    "title": "Solipsizm: Bəlkə Sən Tək Gerçəksən",
+    "description": "Heç sübut edə bilərsənmi ki, başqaları da mövcuddur? Bu suala cavab vermə cəhdi çox şeyi dəyişir.",
+    "keywords": ["alone", "philosophy", "dark"],
+    "category": "philosophy"
+  },
+  {
+    "id": "emotional_regulation",
+    "title": "Emosional Tənzimləmə: Hisslərin Sahibi Olmaq",
+    "description": "Hisslərini boğmaq həll deyil. Onları idarə etmək başqa bir şeydir.",
+    "keywords": ["calm", "emotion", "psychology"],
+    "category": "psychology"
+  },
+  {
+    "id": "nietzsche_overman",
+    "title": "Nietzsche-nin Üst İnsan Konsepti Yanlış Anlaşılır",
+    "description": "Üst insan faşizmlə heç bir əlaqəsi yoxdur. Nietzsche nə demək istəyirdi?",
+    "keywords": ["mountain", "strength", "philosophy"],
+    "category": "philosophy"
+  },
+  {
+    "id": "operant_conditioning",
+    "title": "Skinner Qutusu: Davranışın Necə Formalaşdığı",
+    "description": "Sosial medianın alqoritmləri bir Skinner qutusudur. Sən içindəki siçansan.",
+    "keywords": ["cage", "trap", "psychology"],
+    "category": "psychology"
+  },
+  {
+    "id": "free_will",
+    "title": "Azad İradə Bir İlluziyadırmı?",
+    "description": "Neyrologiya deyir ki, beyin qərar vermədən 0.5 saniyə əvvəl bədənin artıq hərəkət etməyə başlayır.",
+    "keywords": ["brain", "freedom", "philosophy"],
+    "category": "philosophy"
+  },
+  {
+    "id": "reciprocity_trap",
+    "title": "Qarşılıqlılıq Tuzağı: Borclu Hiss Etdirmənin Gücü",
+    "description": "Kimisə kiçik bir hədiyyə verib sonra böyük bir şey istəmək. Bu texnikanı bilən onu görmür.",
+    "keywords": ["gift", "manipulation", "psychology"],
+    "category": "dark_psychology"
+  },
+  {
+    "id": "pascal_wager",
+    "title": "Paskal-ın Bahisi: Tanrıya İnanmaq Rasional",
+    "description": "Bu arqumentin gücü nədir? Zəifliyi nədir? Heç kim tam məzmununu bilmir.",
+    "keywords": ["religion", "philosophy", "dark"],
+    "category": "philosophy"
+  },
+  {
+    "id": "embodied_cognition",
+    "title": "Bədən Düşüncəni Formalaşdırır: Pozanı Düzəlt, Düşüncəni Düzəlt",
+    "description": "Psixologiyanın ən maraqlı sahəsi: bədən dili sadəcə əksetdirmir, həm də formalaşdırır.",
+    "keywords": ["body", "mind", "psychology"],
+    "category": "psychology"
+  },
+  {
+    "id": "kierkegaard_anxiety",
+    "title": "Kerkegord: Narahatlıq Azadlığın Başdönməsidir",
+    "description": "Niyə narahat olduğunun izahı 150 il əvvəl yazılmışdı.",
+    "keywords": ["anxiety", "freedom", "philosophy"],
+    "category": "philosophy"
+  }
+]
